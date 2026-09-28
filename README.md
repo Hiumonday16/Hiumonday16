@@ -18,7 +18,6 @@ Software Development student at **Seneca Polytechnic** (Honours Bachelor of Soft
 | Project | What it is | Stack |
 |---|---|---|
 | [Smart Expense & Budget Tracker](https://github.com/BSD-Capstone-Project-2026/Smart-Expense-Budget-Tracker) | Capstone: income, budgets, cash flow and forecasting | React, Flask, pytest |
-| [FlexWise](https://github.com/Hiumonday16/FlexWise) | Expense-tracking web app (Capstone I) | React, Flask |
 | [fragments](https://github.com/Hiumonday16/fragments) / [fragments-ui](https://github.com/Hiumonday16/fragments-ui) | Cloud microservice for storing text, JSON and image fragments | Node.js, Express, Docker, AWS, Jest, CI |
 | [Self-driving car simulation](https://github.com/Hiumonday16/G5_DPS920FinalProject) | Behavioural-cloning CNN that drives a Unity-simulated car (group project) | Python, Keras, OpenCV |
 | [NomNom](https://github.com/Group-25-BTP405-NBB) | Food ordering web app (group project) | Next.js, Flask, Docker |
